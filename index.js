@@ -9,7 +9,7 @@ require( 'datatables.net-dt' )();
 //
 // keep this up to date 
 //
-const blobSasUrl = "https://mileswadestorage.blob.core.windows.net/mw-mastermind-stats?sp=r&st=2022-01-14T02:55:17Z&se=2023-05-25T09:55:17Z&spr=https&sv=2020-08-04&sr=c&sig=suhbpGCVQrpWfLhgbK1w6oFjT4ay4XEuyC6FwVZb8%2BE%3D";
+const blobSasUrl = "https://mileswadestorage.blob.core.windows.net/mw-mastermind-usernames?sp=r&st=2022-01-14T17:39:53Z&se=2023-01-06T01:39:53Z&spr=https&sv=2020-08-04&sr=c&sig=%2Fi2omv9Q3OjJ6p7CjTF4MruJx9rfAruxGqm57LJzxPU%3D";
 
 var myGamePiece;
 
