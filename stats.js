@@ -1,7 +1,7 @@
 //
 // Globals
 //
-const blobSasUrl = "https://mileswadestorage.blob.core.windows.net/?sp=r&st=2022-01-12T00:43:27Z&se=2022-01-12T08:43:27Z&spr=https&sv=2020-08-04&sr=c&sig=lcw8Iq16tlzj7O19baeQ1YlEoBFlxc60rsFfKCOhhn4%3D";
+const blobSasUrl = "https://mileswadestorage.blob.core.windows.net/mw-mastermind-stats?sp=r&st=2022-01-14T02:55:17Z&se=2023-05-25T09:55:17Z&spr=https&sv=2020-08-04&sr=c&sig=suhbpGCVQrpWfLhgbK1w6oFjT4ay4XEuyC6FwVZb8%2BE%3D";
 
 var myGamePiece;
 
