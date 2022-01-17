@@ -1,5 +1,5 @@
 {
-  "name": "mastermind-game-html",
+  "name": "mastermind_2022",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wadelamble/mastermind-game-html.git"
+    "url": "git+https://github.com/wadelamble/mastermind_2022.git"
   },
   "keywords": [],
   "author": "",
@@ -19,9 +19,9 @@
     "last 1 Firefox version"
   ],
   "bugs": {
-    "url": "https://github.com/wadelamble/mastermind-game-html/issues"
+    "url": "https://github.com/wadelamble/mastermind_2022/issues"
   },
-  "homepage": "https://github.com/wadelamble/mastermind-game-html#readme",
+  "homepage": "https://github.com/wadelamble/mastermind_2022#readme",
   "dependencies": {
     "@azure/storage-blob": "^12.2.0-preview.1",
     "datatables.net": "^1.10.22",
